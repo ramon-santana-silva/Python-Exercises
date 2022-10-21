@@ -1,2 +1,2 @@
-# Python Exercises
- Exercises from Curso em Video
+# projetopython
+treinamento e exercicios Python
